@@ -1,4 +1,4 @@
-﻿using System;
+﻿using DesingPatterns.Singleton;
 
 namespace DesingPatterns
 {
@@ -6,7 +6,8 @@ namespace DesingPatterns
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            SingletonImplementation singletonImplementation = new SingletonImplementation();
+            singletonImplementation.Implementation();
         }
     }
 }
