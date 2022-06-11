@@ -1,0 +1,14 @@
+I:\Proyectos\DesingPatterns\DesingPatterns\DesingPatterns\obj\Debug\netcoreapp3.1\DesingPatterns.csproj.AssemblyReference.cache
+I:\Proyectos\DesingPatterns\DesingPatterns\DesingPatterns\obj\Debug\netcoreapp3.1\DesingPatterns.GeneratedMSBuildEditorConfig.editorconfig
+I:\Proyectos\DesingPatterns\DesingPatterns\DesingPatterns\obj\Debug\netcoreapp3.1\DesingPatterns.AssemblyInfoInputs.cache
+I:\Proyectos\DesingPatterns\DesingPatterns\DesingPatterns\obj\Debug\netcoreapp3.1\DesingPatterns.AssemblyInfo.cs
+I:\Proyectos\DesingPatterns\DesingPatterns\DesingPatterns\obj\Debug\netcoreapp3.1\DesingPatterns.csproj.CoreCompileInputs.cache
+I:\Proyectos\DesingPatterns\DesingPatterns\DesingPatterns\bin\Debug\netcoreapp3.1\DesingPatterns.exe
+I:\Proyectos\DesingPatterns\DesingPatterns\DesingPatterns\bin\Debug\netcoreapp3.1\DesingPatterns.deps.json
+I:\Proyectos\DesingPatterns\DesingPatterns\DesingPatterns\bin\Debug\netcoreapp3.1\DesingPatterns.runtimeconfig.json
+I:\Proyectos\DesingPatterns\DesingPatterns\DesingPatterns\bin\Debug\netcoreapp3.1\DesingPatterns.runtimeconfig.dev.json
+I:\Proyectos\DesingPatterns\DesingPatterns\DesingPatterns\bin\Debug\netcoreapp3.1\DesingPatterns.dll
+I:\Proyectos\DesingPatterns\DesingPatterns\DesingPatterns\bin\Debug\netcoreapp3.1\DesingPatterns.pdb
+I:\Proyectos\DesingPatterns\DesingPatterns\DesingPatterns\obj\Debug\netcoreapp3.1\DesingPatterns.dll
+I:\Proyectos\DesingPatterns\DesingPatterns\DesingPatterns\obj\Debug\netcoreapp3.1\DesingPatterns.pdb
+I:\Proyectos\DesingPatterns\DesingPatterns\DesingPatterns\obj\Debug\netcoreapp3.1\DesingPatterns.genruntimeconfig.cache
