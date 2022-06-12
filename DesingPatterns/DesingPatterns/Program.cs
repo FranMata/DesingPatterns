@@ -1,4 +1,6 @@
-﻿using DesingPatterns.Singleton;
+﻿using DesingPatterns.Factory;
+using DesingPatterns.Singleton;
+using System;
 
 namespace DesingPatterns
 {
@@ -6,8 +8,15 @@ namespace DesingPatterns
     {
         static void Main(string[] args)
         {
-            SingletonImplementation singletonImplementation = new SingletonImplementation();
-            singletonImplementation.Implementation();
+            _PrintPatternName("Singleton");
+            new SingletonImplementation().Implementation();
+            _PrintPatternName("Factory");
+            new FactoryImplementation().Implementation();
+        }
+
+        private static void _PrintPatternName(string name)
+        {
+            Console.WriteLine("----------------{0}-------------------", name);
         }
     }
 }
