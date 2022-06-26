@@ -1,6 +1,7 @@
 ﻿using DesingPatterns.Builder;
 using DesingPatterns.Factory;
 using DesingPatterns.Observer;
+using DesingPatterns.Prototype;
 using DesingPatterns.Singleton;
 using System;
 
@@ -18,6 +19,8 @@ namespace DesingPatterns
             new ObserverImplementation().Implementation();
             _PrintPatternName("Builder");
             new BuilderImplementation().Implementation();
+            _PrintPatternName("Prototype");
+            new PrototypeImplementation().Implementation();
         }
 
         private static void _PrintPatternName(string name)
